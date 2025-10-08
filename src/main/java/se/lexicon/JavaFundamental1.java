@@ -18,7 +18,7 @@ public class JavaFundamental1 {
         char grade = 'A';
         System.out.println("grade is: " + grade);
 
-        char specialChar = '\u2764'; // unicode character
+        char specialChar = '\u2764'; // Unicode character
         System.out.println("Unicode character is: " + specialChar);
         System.out.println("--------------------------------------------");
 
