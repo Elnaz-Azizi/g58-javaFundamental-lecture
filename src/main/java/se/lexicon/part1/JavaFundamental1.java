@@ -1,4 +1,4 @@
-package se.lexicon;
+package se.lexicon.part1;
 
 public class JavaFundamental1 {
     public static void main(String[] args) {
